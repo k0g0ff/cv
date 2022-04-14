@@ -10,9 +10,9 @@
 	<body>
 		<h1>Альфа и бета распады (AHK)</h1>
 	<p>На этом сайте вы можете скачать программу, с помощью которой вы сможете проводить <b><em>альфа</em> и <em>бета</em> распады</b></p>
-	<a href="https://github.com/k0g0ff/app/raw/main/Raspad.exe">Скачать программу</a>
+	<a href="https://github.com/whoamin34505/app/raw/main/Raspad.exe">Скачать программу</a>
 	<br> <!-- нужно для переноса строки -->
-	<a href="https://k0g0ff.github.io/web/">Ссылка на сайт, который решает задачи, связанные с дефектом массы</a>
+	<a href="https://whoamin34505.github.io/web/">Ссылка на сайт, который решает задачи, связанные с дефектом массы</a>
 	<hr>
 	<ul>
 		<li><a href="https://vk.com/whoamin">ВК</a> разработчика</li>
